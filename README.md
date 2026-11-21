@@ -16,7 +16,6 @@
   <img src="docs/figures/graphical_abstract.png" alt="Graphical abstract: sparse soil records, 25 latent space–time structures fitted with R-INLA, row and field hold-out validation, complete field × season soil table" width="100%">
 </p>
 
-<sub>The numbers in the right-hand panel come from a first test run (soil pH, one seed, part of the structures). They will change once the full comparison has run.</sub>
 
 The data this was built for come from an irrigated sugarcane estate: about 850 fields followed over 23 seasons, with soil analysed only now and then (roughly once per replanting cycle). Most field × season cells are empty, a few fields were never sampled, and the analyses we want to run afterwards need a complete soil table. The question here is simply: *which space–time structure fills those gaps best?*
 
