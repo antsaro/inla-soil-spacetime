@@ -1,0 +1,23 @@
+property,unit,modelled_as,structure,holdout_R2_gap,holdout_R2_new_field,coverage95_gap
+pH,,pH,S13_KH4_besag_x_ar1,0.69,0.691,0.954
+N,g kg-1,N,S13_KH4_besag_x_ar1,0.686,0.702,0.947
+Mg,meq 100g-1,Mg,S13_KH4_besag_x_ar1,0.933,0.869,0.946
+Na,meq 100g-1,log Na,S13_KH4_besag_x_ar1,0.848,0.826,0.948
+K,meq 100g-1,log K,S13_KH4_besag_x_ar1,0.75,0.744,0.951
+Compaction,,Compaction,S13_KH4_besag_x_ar1,0.84,0.352,0.964
+Mg_K,,Mg_K,S13_KH4_besag_x_ar1,0.793,0.803,0.946
+Mg_Ca,,Mg_Ca,S13_KH4_besag_x_ar1,0.816,0.78,0.957
+SumBases,meq 100g-1,SumBases,S13_KH4_besag_x_ar1,0.922,0.879,0.933
+P2O5,mg kg-1,log P2O5,S13_KH4_besag_x_ar1,0.388,0.409,0.947
+CN,,log CN,S13_KH4_besag_x_ar1,0.429,0.438,0.953
+EC,mmho cm-1,log EC,S13_KH4_besag_x_ar1,0.617,0.572,0.954
+OC,g kg-1,OC,S13_KH4_besag_x_ar1,0.689,0.72,0.947
+Ca,meq 100g-1,Ca,S13_KH4_besag_x_ar1,0.918,0.857,0.94
+OM,%,0.1720 x OC + 0.0000 (database conversion),from OC,,,
+CaO,g 100g-1,0.0280 x Ca + -0.0000 (database conversion),from Ca,,,
+ILR3_1,ILR coordinate,pivot ILR coordinate,S03_bym2,0.983,0.834,0.955
+ILR3_2,ILR coordinate,pivot ILR coordinate,S21_besag_slope,0.857,0.43,0.951
+ILR5_1,ILR coordinate,pivot ILR coordinate,S03_bym2,0.982,0.855,0.967
+ILR5_2,ILR coordinate,pivot ILR coordinate,S03_bym2,0.981,0.81,0.963
+ILR5_3,ILR coordinate,pivot ILR coordinate,S10_KH1_iidObs,0.935,0.62,0.952
+ILR5_4,ILR coordinate,pivot ILR coordinate,S20_besag_ar1PerField,0.539,0.169,0.969
